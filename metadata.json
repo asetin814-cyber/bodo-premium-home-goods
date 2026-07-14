@@ -1,0 +1,6 @@
+{
+  "name": "BODO Premium Home Goods",
+  "description": "handcrafted digital product experience for BODO 6-in-1 Steam Cleaner. Tested. Minimalist. Premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
